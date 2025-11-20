@@ -1,0 +1,49 @@
+# Visual Studio workspace
+.vs/
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.VC.db
+*.VC.opendb
+*.vscode
+
+# Build outputs
+/build/
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# Compiler intermediates
+*.obj
+*.iobj
+*.ipch
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.log
+*.tmp
+*.tmp_proj
+*.cachefile
+
+# Binaries and libraries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Misc
+*.opensdf
+*.sdf
+*.opendb
+*.psess
+*.vsp
+*.vspx
+*.db
+Thumbs.db
+*.DS_Store
+*.swp
