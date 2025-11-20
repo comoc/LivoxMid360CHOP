@@ -57,7 +57,7 @@ CHOP_CPlusPlusBase.h, ...          Headers from the TouchDesigner C++ CHOP SDK.
 | Streaming | `Points Per Cook` | Number of latest points copied to the CHOP output on each cook. |
 | Streaming | `Buffer Limit` | Maximum number of samples cached internally before dropping the oldest ones. |
 | Streaming | `Reset Buffer` | Clears the point cache without disconnecting. |
-| Output | `Point Data Type` | Request high (millimetre) or low (centimetre) Cartesian packet formats from the lidar. |
+| Output | `Point Data Type` | Request high (millimeter) or low (centimeter) Cartesian packet formats from the lidar. |
 | Output | `Coordinate Output` | Choose Cartesian (XYZ) or derived spherical (distance/theta/phi) outputs for the first three channels. Channel 4 always holds intensity. |
 
 The CHOP produces four channels:
