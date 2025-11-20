@@ -101,3 +101,7 @@ Save the file somewhere accessible (local drive is recommended) and point the `C
 
 - Livox SDK team for the Mid-360 networking stack.
 - @Ajasra for releasing SlamtecCHOP, which informed the TouchDesigner-specific boilerplate and parameter UX.
+
+## License
+
+MIT License — see `LICENSE.txt` for full text.
